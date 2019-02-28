@@ -2,6 +2,6 @@
   "apkurl":"https://raw.githubusercontent.com/btl-autoApk/BtlApkAutoUpdate/master/N806/app-debug.apk",
   "iniurl":"https://raw.githubusercontent.com/btl-autoApk/BtlApkAutoUpdate/master/N806/diagnosisConfigue.ini",
   "appversion":1,
-  "iniversion":0,
+  "iniversion":1,
   "updateMessage":"[1]实现boot<br/>[2]出版软件<br/>"
 }
